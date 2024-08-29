@@ -1,0 +1,251 @@
+KEGG.id	Entry.type	KEGG.name	p.score
+hsa00030	pathway	Pentose phosphate pathway - Homo sapiens (hum...	0.0238817710916145
+hsa00270	pathway	Cysteine and methionine metabolism - Homo sap...	0.0080119241270596
+hsa00770	pathway	Pantothenate and CoA biosynthesis - Homo sapi...	0.000141023057181999
+hsa04024	pathway	cAMP signaling pathway - Homo sapiens (human)	1e-06
+hsa04080	pathway	Neuroactive ligand-receptor interaction - Hom...	0.0183289952277076
+hsa04530	pathway	Tight junction - Homo sapiens (human)	0.0294243769741382
+hsa04614	pathway	Renin-angiotensin system - Homo sapiens (huma...	0.0293717841956951
+hsa04664	pathway	Fc epsilon RI signaling pathway - Homo sapien...	6.02033271055812e-05
+hsa04721	pathway	Synaptic vesicle cycle - Homo sapiens (human)	1e-06
+hsa04723	pathway	Retrograde endocannabinoid signaling - Homo s...	0.000876896529718349
+hsa04915	pathway	Estrogen signaling pathway - Homo sapiens (hu...	1e-06
+hsa04929	pathway	GnRH secretion - Homo sapiens (human)	1e-06
+hsa04933	pathway	AGE-RAGE signaling pathway in diabetic compli...	0.000538905490068834
+hsa04962	pathway	Vasopressin-regulated water reabsorption - Ho...	1e-06
+hsa04971	pathway	Gastric acid secretion - Homo sapiens (human)	1e-06
+hsa04974	pathway	Protein digestion and absorption - Homo sapie...	3.12960614910795e-05
+hsa04978	pathway	Mineral absorption - Homo sapiens (human)	0.000133596306726766
+hsa05032	pathway	Morphine addiction - Homo sapiens (human)	1e-06
+hsa05033	pathway	Nicotine addiction - Homo sapiens (human)	0.000457786880588401
+hsa05230	pathway	Central carbon metabolism in cancer - Homo sa...	0.00012862609719647
+hsa05310	pathway	Asthma - Homo sapiens (human)	0.000145014196124501
+M00004	module	Pentose phosphate pathway (Pentose phosphate ...	0.00296095257278009
+M00006	module	Pentose phosphate pathway, oxidative phase, g...	5.68040683150196e-06
+M00008	module	Entner-Doudoroff pathway, glucose-6P => glyce...	1.53406084677352e-06
+M00017	module	Methionine biosynthesis, aspartate => homoser...	1e-06
+M00027	module	GABA (gamma-Aminobutyrate) shunt	0.00025225093618212
+M00088	module	Ketone body biosynthesis, acetyl-CoA => aceto...	1e-06
+M00118	module	Glutathione biosynthesis, glutamate => glutat...	0.00290095774161101
+M00119	module	Pantothenate biosynthesis, valine/L-aspartate...	9.13684026135102e-06
+M00120	module	Coenzyme A biosynthesis, pantothenate => CoA	0.0191907063495044
+M00135	module	GABA biosynthesis, eukaryotes, putrescine => ...	1e-06
+M00338	module	Cysteine biosynthesis, homocysteine + serine ...	0.0194940672132161
+M00913	module	Pantothenate biosynthesis, 2-oxoisovalerate/s...	0.00647191669027801
+1.1.1.30	enzyme	3-hydroxybutyrate dehydrogenase	1e-06
+1.1.1.343	enzyme	phosphogluconate dehydrogenase (NAD+-dependen...	1e-06
+1.1.1.44	enzyme	phosphogluconate dehydrogenase (NADP+-depende...	1e-06
+1.1.1.49	enzyme	glucose-6-phosphate dehydrogenase (NADP+)	0.0117576523902583
+1.14.11.16	enzyme	peptide-aspartate beta-dioxygenase	0.00491884453455607
+1.14.11.18	enzyme	phytanoyl-CoA dioxygenase	0.0202835037634124
+1.2.1.24	enzyme	succinate-semialdehyde dehydrogenase (NAD+)	0.0137998972642814
+2.1.1.8	enzyme	histamine N-methyltransferase	1e-06
+2.3.1.57	enzyme	diamine N-acetyltransferase	1e-06
+2.4.3.7	enzyme	alpha-N-acetylneuraminyl-2,3-beta-galactosyl-...	0.0295433318553917
+2.6.1.19	enzyme	4-aminobutyrate---2-oxoglutarate transaminase	1e-06
+2.6.1.42	enzyme	branched-chain-amino-acid transaminase	1e-06
+2.6.1.44	enzyme	alanine---glyoxylate transaminase	1e-06
+2.7.1.12	enzyme	gluconokinase	1e-06
+2.7.1.33	enzyme	pantothenate kinase	0.000145147031591387
+2.7.1.48	enzyme	uridine/cytidine kinase	0.000504808925282019
+2.7.1.78	enzyme	polynucleotide 5'-hydroxyl-kinase	0.00289471515225315
+2.7.11.15	enzyme	beta-adrenergic-receptor kinase	0.000128869443954472
+2.7.11.16	enzyme	G-protein-coupled receptor kinase	0.00592795732704707
+2.7.11.17	enzyme	Ca2+/calmodulin-dependent protein kinase	0.020106169173062
+2.7.11.18	enzyme	myosin-light-chain kinase	0.000222417912538195
+2.7.11.19	enzyme	phosphorylase kinase	0.00275006186455865
+2.7.11.2	enzyme	[pyruvate dehydrogenase (acetyl-transferring)...	0.000271559090360639
+2.7.11.23	enzyme	[RNA-polymerase]-subunit kinase	0.0153382900979181
+2.7.8.15	enzyme	UDP-N-acetylglucosamine---dolichyl-phosphate ...	0.000236490574112793
+2.7.8.17	enzyme	UDP-N-acetylglucosamine---lysosomal-enzyme N-...	1e-06
+3.1.1.31	enzyme	6-phosphogluconolactonase	1e-06
+3.1.4.53	enzyme	3',5'-cyclic-AMP phosphodiesterase	0.0336282160630976
+3.1.4.54	enzyme	N-acetylphosphatidylethanolamine-hydrolysing ...	0.000876896529718349
+3.2.1.108	enzyme	lactase	0.0270850461986545
+3.2.1.207	enzyme	mannosyl-oligosaccharide alpha-1,3-glucosidas...	0.000109980659550549
+3.4.11.3	enzyme	cystinyl aminopeptidase	0.0293717841956951
+3.4.11.7	enzyme	glutamyl aminopeptidase	0.0293717841956951
+3.4.11.9	enzyme	Xaa-Pro aminopeptidase	3.12960614910795e-05
+3.4.13.18	enzyme	cytosol nonspecific dipeptidase	0.015016189676521
+3.4.14.5	enzyme	dipeptidyl-peptidase IV	3.12960614910795e-05
+3.4.16.2	enzyme	lysosomal Pro-Xaa carboxypeptidase	5.61608141425849e-05
+3.4.17.1	enzyme	carboxypeptidase A	9.06082186880615e-05
+3.4.17.15	enzyme	carboxypeptidase A2	6.31841287341942e-05
+3.4.17.2	enzyme	carboxypeptidase B	6.31841287341942e-05
+3.4.17.20	enzyme	carboxypeptidase U	0.000312259809375592
+3.4.21.1	enzyme	chymotrypsin	6.31841287341942e-05
+3.4.21.26	enzyme	prolyl oligopeptidase	0.0293717841956951
+3.4.21.4	enzyme	trypsin	3.44409982299223e-05
+3.4.21.70	enzyme	pancreatic endopeptidase E	6.31841287341942e-05
+3.4.21.71	enzyme	pancreatic elastase II	6.31841287341942e-05
+3.4.21.78	enzyme	granzyme A	0.0183289952277076
+3.4.23.1	enzyme	pepsin A	3.12960614910795e-05
+3.4.24.11	enzyme	neprilysin	0.000664390163990247
+3.4.24.16	enzyme	neurolysin	0.0293717841956951
+3.4.24.18	enzyme	meprin A	3.12960614910795e-05
+3.4.24.63	enzyme	meprin B	3.12960614910795e-05
+3.5.1.92	enzyme	pantetheine hydrolase	3.83015200479526e-06
+3.5.3.7	enzyme	guanidinobutyrase	0.000172472828616558
+3.6.1.9	enzyme	nucleotide diphosphatase	0.00311502808012556
+3.6.4.6	enzyme	vesicle-fusing ATPase	1e-06
+3.6.5.5	enzyme	dynamin GTPase	2.38649401487488e-06
+4.1.1.11	enzyme	aspartate 1-decarboxylase	0.015162292531696
+4.1.1.15	enzyme	glutamate decarboxylase	0.00372450952587791
+4.1.1.22	enzyme	histidine decarboxylase	1e-06
+4.1.3.4	enzyme	hydroxymethylglutaryl-CoA lyase	0.0182594990989789
+5.6.1.6	enzyme	channel-conductance-controlling ATPase	8.48170583281372e-06
+6.3.1.2	enzyme	glutamine synthetase	0.0116091581112566
+6.3.2.11	enzyme	carnosine synthase	0.0116563151130717
+6.3.2.2	enzyme	glutamate---cysteine ligase	1e-06
+6.3.4.2	enzyme	CTP synthase (glutamine hydrolysing)	0.000162256446007679
+6.3.5.4	enzyme	asparagine synthase (glutamine-hydrolysing)	0.00840335442358505
+6.5.1.1	enzyme	DNA ligase (ATP)	0.0306769115049209
+7.1.2.2	enzyme	H+-transporting two-sector ATPase	0.00618599107458753
+7.2.2.10	enzyme	P-type Ca2+ transporter	0.00127338753280247
+7.2.2.13	enzyme	Na+/K+-exchanging ATPase	8.63286029253168e-05
+7.2.2.19	enzyme	H+/K+-exchanging ATPase	0.000420113238699284
+7.2.2.8	enzyme	P-type Cu+ transporter	0.00078106034243856
+R00010	reaction	alpha,alpha-trehalose glucohydrolase	0.0112717294468668
+R00021	reaction	L-glutamate:ferredoxin oxidoreductase (transa...	2.0090270055436e-05
+R00028	reaction	maltose glucohydrolase	0.00919914564522476
+R00048	reaction	(R)-3-((R)-3-hydroxybutanoyloxy)-butanoate hy...	1e-06
+R00087	reaction	ATP diphosphohydrolase (diphosphate-forming)	0.0131109523193279
+R00093	reaction	L-glutamate:NAD+ oxidoreductase (transaminati...	1e-06
+R00114	reaction	L-glutamate:NADP+ oxidoreductase (transaminat...	3.01979080334891e-06
+R00122	reaction	ADP phosphohydrolase	0.000435802562934265
+R00127	reaction	ATP:AMP phosphotransferase	0.000173864995086774
+R00155	reaction	UDP phosphohydrolase	1e-06
+R00158	reaction	ATP:UMP phosphotransferase	1e-06
+R00253	reaction	L-glutamate:ammonia ligase (ADP-forming)	1e-06
+R00256	reaction	L-glutamine amidohydrolase	1e-06
+R00257	reaction	deamido-NAD+:L-glutamine amido-ligase (AMP-fo...	0.0312902170788292
+R00261	reaction	L-glutamate 1-carboxy-lyase (4-aminobutanoate...	1e-06
+R00287	reaction	UDP-glucose glucophosphohydrolase	1e-06
+R00299	reaction	ATP:D-glucose 6-phosphotransferase	0.000100959681752182
+R00303	reaction	D-glucose-6-phosphate phosphohydrolase	0.000926750185567279
+R00405	reaction	succinate:CoA ligase (ADP-forming)	0.000678859651216879
+R00410	reaction	succinyl-CoA:acetoacetate CoA-transferase	0.0274773707614262
+R00446	reaction	L-lysine:NAD+ 6-oxidoreductase (deaminating)	1.29408439116653e-05
+R00447	reaction	L-lysine:oxygen 2-oxidoreductase (deaminating...	0.00939688547117219
+R00451	reaction	meso-2,6-diaminoheptanedioate carboxy-lyase (...	0.00874231939062035
+R00454	reaction	acetyl-CoA:L-lysine N6-acetyltransferase	0.00355392272175017
+R00458	reaction	N6-acetyl-L-lysine amidohydrolase	0.00282238311698096
+R00460	reaction	lysine racemase	0.00531826610942498
+R00462	reaction	L-lysine carboxy-lyase (cadaverine-forming)	0.0013902964044214
+R00489	reaction	L-aspartate 1-carboxy-lyase (beta-alanine-for...	0.0164121044405551
+R00511	reaction	cytidine-5'-monophosphate phosphohydrolase	0.00533631214602985
+R00512	reaction	ATP:CMP phosphotransferase	1.86565676491891e-05
+R00513	reaction	ATP:cytidine 5'-phosphotransferase	0.000235638995489545
+R00514	reaction	CDP phosphohydrolase	0.000514221380588868
+R00515	reaction	CTP diphosphohydrolase (diphosphate-forming)	1.86713077164266e-05
+R00517	reaction	GTP:cytidine 5'-phosphotransferase	0.00405658757477924
+R00573	reaction	UTP:L-glutamine amido-ligase (ADP-forming)	2.55392048131708e-06
+R00575	reaction	HCO3-:L-glutamine amido-ligase (ADP-forming, ...	0.000269522346671433
+R00576	reaction	L-glutamine:pyruvate aminotransferase	0.00799191374389346
+R00578	reaction	L-aspartate:L-glutamine amido-ligase (AMP-for...	0.00218216598185382
+R00662	reaction	uridine triphosphate pyrophosphohydrolase	1e-06
+R00715	reaction	N6-(L-1,3-dicarboxypropyl)-L-lysine:NAD+ oxid...	0.0107171004000107
+R00716	reaction	N6-(L-1,3-dicarboxypropyl)-L-lysine:NADP+ oxi...	0.0130430963535382
+R00768	reaction	L-glutamine:D-fructose-6-phosphate isomerase ...	0.00456651893896709
+R00894	reaction	L-glutamate:L-cysteine gamma-ligase (ADP-form...	0.0311383325210276
+R00910	reaction	L-lysine:beta-alanine ligase (ADP-forming)	0.0241827435557429
+R00963	reaction	uridine 5'-monophosphate phosphohydrolase	1e-06
+R00964	reaction	ATP:uridine 5'-phosphotransferase	1e-06
+R00965	reaction	orotidine-5'-phosphate carboxy-lyase (UMP-for...	0.027499217784137
+R00966	reaction	UMP:diphosphate phospho-alpha-D-ribosyltransf...	1e-06
+R00968	reaction	GTP:uridine 5'-phosphotransferase	1e-06
+R00986	reaction	chorismate pyruvate-lyase (amino-accepting)	0.00696491003012631
+R00999	reaction	O-succinyl-L-homoserine succinate-lyase (deam...	0.00224733036883919
+R01001	reaction	L-cystathionine cysteine-lyase (deaminating	1e-06
+R01154	reaction	acetyl-CoA:putrescine N-acetyltransferase	1e-06
+R01156	reaction	N-acetylputrescine acetylhydrolase	1e-06
+R01167	reaction	L-histidine carboxy-lyase (histamine-forming)	1e-06
+R01214	reaction	L-valine:2-oxoglutarate aminotransferase	1e-06
+R01215	reaction	L-valine:pyruvate aminotransferase	1e-06
+R01231	reaction	xanthosine-5'-phosphate:L-glutamine amido-lig...	0.00564439250753856
+R01283	reaction	L-homocysteine hydrogen-sulfide-lyase (deamin...	0.0341688500390882
+R01286	reaction	L-cystathionine L-homocysteine-lyase (deamina...	1e-06
+R01288	reaction	O4-succinyl-L-homoserine:hydrogen sulfide S-(...	0.00711524173889571
+R01290	reaction	L-serine hydro-lyase (adding homocysteine	1e-06
+R01321	reaction	CDP-choline:1,2-diacyl-sn-glycerol cholinepho...	0.0215570867734495
+R01361	reaction	(R)-3-hydroxybutanoate:NAD+ oxidoreductase	1e-06
+R01434	reaction	L-valine:NAD+ oxidoreductase(deaminating)	1e-06
+R01528	reaction	6-phospho-D-gluconate:NADP+ 2-oxidoreductase ...	1e-06
+R01620	reaction	acetyl-phosphate:L-lysine N6-acetyltransferas...	0.00674094010598439
+R01648	reaction	4-aminobutanoate:2-oxoglutarate aminotransfer...	1e-06
+R01737	reaction	ATP:D-gluconate 6-phosphotransferase	1e-06
+R01771	reaction	ATP:L-homoserine O-phosphotransferase	1e-06
+R01773	reaction	L-homoserine:NAD+ oxidoreductase	1e-06
+R01775	reaction	L-homoserine:NADP+ oxidoreductase	1e-06
+R01776	reaction	acetyl-CoA:L-homoserine O-acetyltransferase	1e-06
+R01777	reaction	succinyl-CoA:L-homoserine O-succinyltransfera...	1e-06
+R01797	reaction	CDP-diacylglycerol phosphatidylhydrolase	0.0140481195361609
+R01800	reaction	CDP-diacylglycerol:L-serine 3-phosphatidyltra...	0.0222495962941918
+R01802	reaction	CDP-diacylglycerol:myo-inositol 3-phosphatidy...	0.0295482483830853
+R01986	reaction	4-aminobutyraldehyde:NAD+ oxidoreductase	1e-06
+R01987	reaction	4-acetamidobutanoate amidohydrolase	0.00566924482826612
+R01989	reaction	L-arginine:4-aminobutanoate amidinotransferas...	0.000114526314608174
+R01990	reaction	4-guanidinobutanoate amidinohydrolase	4.85030387727717e-05
+R01991	reaction	L-histidine:4-aminobutanoate ligase (ADP-form...	0.0023884143446078
+R01992	reaction	alpha-aminobutyryl histidine hydrolase	0.00515853404312494
+R02032	reaction	6-phospho-2-dehydro-D-gluconate:NAD+ 2-oxidor...	1e-06
+R02034	reaction	6-phospho-D-gluconate:NADP+ 2-oxidoreductase	1e-06
+R02035	reaction	6-phospho-D-glucono-1,5-lactone lactonohydrol...	1e-06
+R02036	reaction	6-phospho-D-gluconate hydro-lyase (2-dehydro-...	1e-06
+R02150	reaction	1H-imidazole-4-ethanamine:oxygen oxidoreducta...	1e-06
+R02152	reaction	Histamine + Acetyl-CoA <=> 4-(beta-Acetylamin...	0.0015368427342569
+R02155	reaction	S-adenosyl-L-methionine:histamine N-tele-meth...	1e-06
+R02473	reaction	(R)-pantoate:beta-alanine ligase (AMP-forming...	1e-06
+R02474	reaction	pantothenate amidohydrolase	1e-06
+R02549	reaction	4-aminobutanal:NAD+ 1-oxidoreductase	1e-06
+R02973	reaction	(R)-pantetheine amidohydrolase	4.02530569954377e-06
+R03018	reaction	ATP:pantothenate 4'-phosphotransferase	1e-06
+R03217	reaction	O-acetyl-L-homoserine succinate-lyase (adding...	1e-06
+R03260	reaction	O-succinyl-L-homoserine succinate-lyase (addi...	1e-06
+R03927	reaction	Pantothenate + 2 Reduced acceptor <=> Pantoth...	0.000464071474188974
+R04025	reaction	N-acetylputrescine:oxygen oxidoreductase(deam...	1e-06
+R04231	reaction	(R)-4'-phosphopantothenate:L-cysteine ligase	0.0340427613153124
+R04870	reaction	L-2-aminohexanedioate:L-cysteine:L-valine lig...	0.000312460486703933
+R05794	reaction	CDP-diacylglycerol:choline O-phosphatidyltran...	0.0142961312753052
+R05959	reaction	CMP-N-acetylneuraminate + GM1b <=> CMP + GD1a	0.0295433318553917
+R05969	reaction	UDP-N-acetyl-D-glucosamine:dolichyl-phosphate...	3.54261628500421e-06
+R05980	reaction	Glc2Man9GlcNAc2-[protein] 3-alpha-glucohydrol...	1e-06
+R05981	reaction	GlcMan9GlcNAc2-[protein] 3-alpha-glucohydrola...	1e-06
+R07419	reaction	4-(gamma-L-glutamylamino)butanoate amidohydro...	0.000570678752229878
+R08663	reaction	L-valine,[reduced NADPH---hemoprotein reducta...	0.000378036244790611
+R10031	reaction	L-valine,[reduced NADPH---hemoprotein reducta...	0.00095661496780421
+R10089	reaction	D-ribose 5-phosphate,D-glyceraldehyde 3-phosp...	0.0131332470833658
+R10102	reaction	4-methylaminobutanoate:oxygen oxidoreductase ...	0.00279149316285799
+R10178	reaction	4-aminobutanoate:pyruvate aminotransferase	1e-06
+R10221	reaction	6-phospho-D-gluconate:NAD+ 2-oxidoreductase (...	1e-06
+R10305	reaction	O3-acetyl-L-serine:L-homocysteine S-(2-amino-...	1e-06
+R10343	reaction	succinyl-CoA:acetate CoA-transferase	0.00164175749698534
+R10838	reaction	UMP:phosphate (5-phospho-alpha-D-ribosyl)tran...	1e-06
+R10942	reaction	3-{[(2E)-4-amino-4-oxobut-2-enoyl]amino}-L-al...	0.0256586347629585
+R10991	reaction	2-aminobutanoate:2-oxoglutarate aminotransfer...	1e-06
+R10992	reaction	L-alanine:2-oxobutanoate aminotransferase	1e-06
+R10993	reaction	L-glutamate:2-aminobutanoate gamma-ligase (AD...	1e-06
+R12955	reaction	uridine 5'-monophosphate phosphoribohydrolase	1e-06
+R13363	reaction	O-phospho-L-homoserine:L-cysteine S-(3-amino-...	1e-06
+C00008	compound	ADP	3.19114524068355e-06
+C00020	compound	AMP	1.48928024024132e-06
+C00031	compound	D-Glucose	1e-06
+C00042	compound	Succinate	1e-06
+C00047	compound	L-Lysine	1e-06
+C00055	compound	CMP	1e-06
+C00064	compound	L-Glutamine	1e-06
+C00097	compound	L-Cysteine	0.0267892427737562
+C00105	compound	UMP	1e-06
+C00109	compound	2-Oxobutanoate	0.00453611909817026
+C00134	compound	Putrescine	0.0103140854934604
+C00183	compound	L-Valine	1e-06
+C00263	compound	L-Homoserine	1e-06
+C00334	compound	4-Aminobutanoate	1e-06
+C00345	compound	6-Phospho-D-gluconate	1e-06
+C00388	compound	Histamine	1e-06
+C00864	compound	Pantothenate	1e-06
+C01089	compound	(R)-3-Hydroxybutanoate	1e-06
+C02291	compound	L-Cystathionine	1e-06
+C02356	compound	(S)-2-Aminobutanoate	1e-06
+C02714	compound	N-Acetylputrescine	1e-06
+C04546	compound	(R)-3-((R)-3-Hydroxybutanoyloxy)butanoate	0.0189473255527168
